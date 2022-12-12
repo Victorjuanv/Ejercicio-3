@@ -1,4 +1,7 @@
-body{background-color: aliceblue;}
+body{background-color: aliceblue;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 h1{
     font-size: 40px;
     font-style: normal;
@@ -8,4 +11,7 @@ h1{
 h2{
     line-height: 2cm;
     image
+}
+li{
+    font size: 25px; ;
 }
