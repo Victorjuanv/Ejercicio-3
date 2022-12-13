@@ -16,3 +16,19 @@ h2{
 li{
     font size: 25px; ;
 }
+a:hover{
+    color: blue;
+}
+a:link{
+    color: brown;
+}
+a:visited{
+    color: aqua;
+}
+a:active{
+    color: blueviolet;
+}
+#columnas{
+    column-count:2;
+    column-gap:20px;
+ }
