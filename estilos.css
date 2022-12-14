@@ -19,12 +19,13 @@ li{
 a:hover{
     color: blue;
 }
-a:link{
-    color: brown;
-}
 a:visited{
-    color: aqua;
+    color: black;
 }
+a:link{
+    color: sandybrown;
+}
+
 a:active{
     color: blueviolet;
 }
